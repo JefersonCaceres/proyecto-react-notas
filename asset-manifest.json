@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/proyecto-react-notas/static/css/main.739ea8e7.css",
+    "main.js": "/proyecto-react-notas/static/js/main.e4cab676.js",
+    "index.html": "/proyecto-react-notas/index.html",
+    "main.739ea8e7.css.map": "/proyecto-react-notas/static/css/main.739ea8e7.css.map",
+    "main.e4cab676.js.map": "/proyecto-react-notas/static/js/main.e4cab676.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.739ea8e7.css",
+    "static/js/main.e4cab676.js"
+  ]
+}
